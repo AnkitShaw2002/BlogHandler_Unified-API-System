@@ -1,0 +1,3 @@
+# Node/npm/yarn internals
+node_modules/
+.env
